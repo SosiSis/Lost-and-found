@@ -40,7 +40,7 @@ To get started with the Lost and Found App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SosiSis/Lost-and-Found.git
+   git clone https://github.com/SosiSis/Lost-and-found.git
    ```
 
 2. Open the project in Android Studio.
